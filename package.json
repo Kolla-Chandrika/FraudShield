@@ -1,0 +1,13 @@
+{
+  "name": "fraudshield-privacy-preserving-fraud-detection",
+  "version": "1.0.0",
+  "description": "Dark-theme interactive demo for privacy-preserving deep-learning financial transaction fraud detection",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
